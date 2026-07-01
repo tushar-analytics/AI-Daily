@@ -1,0 +1,12 @@
+# Normalize line endings to LF in the repository
+* text=auto eol=lf
+
+# Python
+*.py text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# YAML
+*.yml text eol=lf
+*.yaml text eol=lf

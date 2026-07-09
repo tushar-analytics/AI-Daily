@@ -8,3 +8,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Vector Databases and Embeddings happen regularly.
 
+## 2026-07-09 — Facts about Knowledge Graphs for AI
+
+- **AI is advancing**: New breakthroughs in Knowledge Graphs for AI happen regularly.
+

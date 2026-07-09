@@ -12,3 +12,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-07-09 — Diagram: Mixture of Experts (MoE)
+
+```mermaid
+graph TD
+    A[Mixture of Experts (MoE)] --> B[Core Concept]
+    B --> C[Application]
+```
+

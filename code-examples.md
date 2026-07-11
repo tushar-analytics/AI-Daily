@@ -11,3 +11,10 @@ Practical Python examples for AI concepts — automatically updated daily.
 print('Hello, Vector Databases and Embeddings!')
 ```
 
+## 2026-07-11 — Python Examples: Transformer Architecture
+
+```python
+# Example for Transformer Architecture
+print('Hello, Transformer Architecture!')
+```
+

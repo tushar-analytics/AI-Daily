@@ -12,3 +12,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Knowledge Graphs for AI happen regularly.
 
+## 2026-07-12 — Facts about Zero-shot and Few-shot Learning
+
+- **AI is advancing**: New breakthroughs in Zero-shot and Few-shot Learning happen regularly.
+

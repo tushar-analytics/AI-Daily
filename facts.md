@@ -16,3 +16,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Zero-shot and Few-shot Learning happen regularly.
 
+## 2026-07-13 — Facts about Diffusion Models
+
+- **AI is advancing**: New breakthroughs in Diffusion Models happen regularly.
+

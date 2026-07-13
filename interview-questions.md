@@ -16,3 +16,9 @@ A: Mixture of Experts (MoE) is a key AI concept. More details coming soon.
 
 A: AI for Code Generation is a key AI concept. More details coming soon.
 
+## 2026-07-13 — Interview Questions: Chain-of-Thought Reasoning
+
+**Q: What is Chain-of-Thought Reasoning?**
+
+A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
+

@@ -2,13 +2,12 @@ name: 🤖 AI-Daily Auto Update
 
 on:
   schedule:
-    # Runs at a fixed time; randomness is handled inside the script
-    # Scheduled for 00:00 UTC daily — script will inject random delay
+    # Runs at 00:00 UTC daily; random delay is applied inside the job
     - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       force_updates:
-        description: 'Force number of updates (1-6, leave empty for random)'
+        description: 'Force N updates (0-8). Leave empty for random (0-8).'
         required: false
         default: ''
 
@@ -18,7 +17,7 @@ permissions:
 jobs:
   daily-update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: 📥 Checkout repository
@@ -34,59 +33,39 @@ jobs:
           cache: 'pip'
 
       - name: 📦 Install dependencies
-        run: |
-          pip install -r scripts/requirements.txt
+        run: pip install -r scripts/requirements.txt
 
-      - name: ⏰ Random delay (simulate random time)
+      - name: ⏰ Random delay (spread effective run time across the day)
         run: |
-          # Sleep between 0 and 86399 seconds to randomize the effective run time
           DELAY=$((RANDOM % 3600))
-          echo "Sleeping for $DELAY seconds to randomize update time..."
+          echo "Sleeping ${DELAY}s to vary the daily run time..."
           sleep $DELAY
 
-      - name: 🚀 Run daily update script
+      - name: 🔧 Configure git identity
+        run: |
+          git config --local user.email "${{ vars.GIT_EMAIL || 'github-actions[bot]@users.noreply.github.com' }}"
+          git config --local user.name  "${{ vars.GIT_NAME  || 'AI-Daily Bot' }}"
+
+      - name: 🚀 Run daily update (commits individually per update)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          FORCE_UPDATES: ${{ github.event.inputs.force_updates }}
-          GITHUB_ACTOR: ${{ github.actor }}
+          FORCE_UPDATES:  ${{ github.event.inputs.force_updates }}
+          GITHUB_ACTOR:   ${{ github.actor }}
+          # Pass today's date as seed base so the script is reproducible
+          RUN_DATE: ${{ github.run_id }}
         run: |
           python scripts/daily_update.py
 
-      - name: 🔍 Check for changes
-        id: check_changes
-        run: |
-          if git diff --quiet && git diff --staged --quiet; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: 📝 Stage all changes
-        if: steps.check_changes.outputs.has_changes == 'true'
-        run: |
-          git add -A
-
-      - name: 💾 Commit changes
-        if: steps.check_changes.outputs.has_changes == 'true'
-        run: |
-          git config --local user.email "${{ vars.GIT_EMAIL || 'github-actions[bot]@users.noreply.github.com' }}"
-          git config --local user.name "${{ vars.GIT_NAME || 'AI-Daily Bot' }}"
-          # Read the commit message written by the script
-          if [ -f ".commit_message.txt" ]; then
-            COMMIT_MSG=$(cat .commit_message.txt)
-          else
-            COMMIT_MSG="🤖 Daily AI content update - $(date +'%Y-%m-%d')"
-          fi
-          git commit -m "$COMMIT_MSG"
-
-      - name: 📤 Push changes
-        if: steps.check_changes.outputs.has_changes == 'true'
+      - name: 📤 Push all commits
         run: |
           git push origin HEAD:${{ github.ref_name || 'main' }}
 
-      - name: 📊 Update run summary
+      - name: 📊 Write job summary
+        if: always()
         run: |
           if [ -f ".run_summary.md" ]; then
             echo "### 🤖 AI-Daily Run Summary" >> $GITHUB_STEP_SUMMARY
-            cat .run_summary.md >> $GITHUB_STEP_SUMMARY
+            cat .run_summary.md              >> $GITHUB_STEP_SUMMARY
           fi
+          # Clean up temp files (they are in .gitignore, but tidy up anyway)
+          rm -f .run_summary.md

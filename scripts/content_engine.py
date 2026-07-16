@@ -1,10 +1,13 @@
 """
 ContentEngine: Generates AI content using Gemini API.
 Each update type calls a specific generation method.
+
+The engine now accepts a seeded random.Random instance so every topic
+pick and article selection is reproducible from the same daily seed.
 """
 
 import os
-import random
+import random as _random_module
 import datetime
 import re
 from pathlib import Path
@@ -48,7 +51,8 @@ AI_TOPICS = [
 
 
 class ContentEngine:
-    def __init__(self):
+    def __init__(self, rng: _random_module.Random | None = None):
+        self._rng = rng or _random_module.Random()
         api_key = os.environ.get("GEMINI_API_KEY", "")
         if api_key:
             genai.configure(api_key=api_key)
@@ -81,7 +85,7 @@ class ContentEngine:
 
     def _pick_topic(self, exclude: list[str] | None = None) -> str:
         pool = [t for t in AI_TOPICS if t not in (exclude or [])]
-        return random.choice(pool)
+        return self._rng.choice(pool)
 
     def _generate(self, prompt: str, fallback: str) -> str:
         if not self.use_ai:
@@ -135,7 +139,7 @@ Requirements:
         existing = fm.list_articles()
         if not existing:
             return self._new_article(fm)
-        article_path = random.choice(existing)
+        article_path = self._rng.choice(existing)
         topic = article_path.stem.replace("-", " ").title()
         existing_content = fm.read(article_path)
         prompt = f"""The following is an existing Markdown article about "{topic}".

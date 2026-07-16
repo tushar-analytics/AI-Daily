@@ -1,71 +1,142 @@
 """
-CommitMessageBuilder: Constructs descriptive commit messages.
+CommitMessageBuilder: Constructs unique, descriptive commit messages.
+
+Now accepts the shared seeded Random instance so all randomness
+in the run is reproducible from the same seed.
+Duplicate detection is enforced via a `used_messages` set passed in
+from the caller.
 """
 
-import random
+import random as _random_module
 import datetime
+from typing import Optional
 
 
-# Prefix templates by update type
-_TEMPLATES = {
-    "new_article":             ["Add new article on {topic}", "Publish article: {topic}", "New article: {topic}"],
-    "expand_article":          ["Expand {topic} article", "Extend notes on {topic}", "Add depth to {topic} guide"],
-    "add_ai_facts":            ["Add AI facts: {topic}", "Update facts: {topic}", "Add interesting AI facts on {topic}"],
-    "add_interview_questions": ["Add interview questions: {topic}", "Expand interview prep: {topic}", "Add ML interview Q&A: {topic}"],
-    "add_python_examples":     ["Add Python examples: {topic}", "Add code examples for {topic}", "Update code section: {topic}"],
-    "add_mermaid_diagram":     ["Add diagram: {topic}", "Add architecture diagram: {topic}", "Visualize {topic} with Mermaid"],
-    "update_readme":           ["Update README with latest content", "Refresh README stats and index", "Sync README with new content"],
-    "add_quiz":                ["Add AI quiz: {topic}", "Update quiz section: {topic}", "Add knowledge quiz on {topic}"],
-    "add_summary":             ["Add summary: {topic}", "Add cheat sheet: {topic}", "Quick-reference added: {topic}"],
+# ── Templates ─────────────────────────────────────────────────────────────────
+# Each list gives several phrasings for the same intent.
+# Having multiple variants per type avoids repeated messages on days with
+# many updates of the same kind.
+
+_TEMPLATES: dict[str, list[str]] = {
+    "new_article": [
+        "Add new article on {topic}",
+        "Publish article: {topic}",
+        "New article: {topic}",
+        "Write article covering {topic}",
+        "Draft and publish: {topic}",
+    ],
+    "expand_article": [
+        "Expand {topic} article",
+        "Extend notes on {topic}",
+        "Add depth to {topic} guide",
+        "Improve coverage of {topic}",
+        "Enrich {topic} article with new section",
+    ],
+    "add_ai_facts": [
+        "Add AI facts: {topic}",
+        "Update facts: {topic}",
+        "Add interesting AI facts on {topic}",
+        "Curate new facts about {topic}",
+        "Fact update: {topic}",
+    ],
+    "add_interview_questions": [
+        "Add interview questions: {topic}",
+        "Expand interview prep: {topic}",
+        "Add ML interview Q&A: {topic}",
+        "New interview section: {topic}",
+        "Grow interview bank with {topic} questions",
+    ],
+    "add_python_examples": [
+        "Add Python examples: {topic}",
+        "Add code examples for {topic}",
+        "Update code section: {topic}",
+        "New Python snippets: {topic}",
+        "Improve code examples covering {topic}",
+    ],
+    "add_mermaid_diagram": [
+        "Add diagram: {topic}",
+        "Add architecture diagram: {topic}",
+        "Visualize {topic} with Mermaid",
+        "New Mermaid diagram: {topic}",
+        "Diagram added for {topic}",
+    ],
+    "update_readme": [
+        "Update README with latest content",
+        "Refresh README stats and index",
+        "Sync README with new content",
+        "Improve README index and badges",
+        "README: reflect latest additions",
+    ],
+    "add_quiz": [
+        "Add AI quiz: {topic}",
+        "Update quiz section: {topic}",
+        "Add knowledge quiz on {topic}",
+        "New quiz: {topic}",
+        "Extend quiz bank with {topic}",
+    ],
+    "add_summary": [
+        "Add summary: {topic}",
+        "Add cheat sheet: {topic}",
+        "Quick-reference added: {topic}",
+        "Publish concept summary: {topic}",
+        "New summary card: {topic}",
+    ],
 }
 
-_GENERIC_PREFIXES = [
-    "🤖 Daily AI content update",
-    "📚 Expand AI knowledge base",
-    "✨ AI-Daily: daily knowledge refresh",
+_GENERIC_FALLBACKS = [
+    "Daily AI content update",
+    "Expand AI knowledge base",
+    "AI-Daily: daily knowledge refresh",
+    "Routine AI content improvements",
+    "Knowledge base update",
 ]
 
 
 class CommitMessageBuilder:
-    def build(self, commit_parts: list[str], results: list[dict]) -> str:
-        if not commit_parts:
-            return f"🤖 Daily AI content update — {datetime.date.today().isoformat()}"
+    def __init__(self, rng: _random_module.Random | None = None):
+        self._rng = rng or _random_module.Random()
 
-        if len(commit_parts) == 1:
-            # Single update — use rich template if possible
-            r = results[0] if results else {}
-            return self._format_single(r)
+    # ── Public API ─────────────────────────────────────────────────────────────
 
-        # Multiple updates — compose a multi-line message
-        title = self._multi_title(results)
-        body_lines = []
-        for r in results:
-            part = self._format_single(r, short=True)
-            body_lines.append(f"- {part}")
+    def build_single(self, result: dict, used_messages: set[str]) -> str:
+        """
+        Build a commit message for a single result dict.
+        Guarantees the returned message is not in `used_messages`.
+        Falls back to appending a date stamp if all templates are exhausted.
+        """
+        utype  = result.get("type", "")
+        topic  = result.get("topic", "AI")
+        # If the script already computed a specific commit_part, respect it
+        # but still deduplicate.
+        preferred = result.get("commit_part", "")
 
-        return title + "\n\n" + "\n".join(body_lines)
+        candidates = self._candidates(utype, topic, preferred)
+        for msg in candidates:
+            if msg not in used_messages:
+                return msg
 
-    def _format_single(self, result: dict, short: bool = False) -> str:
-        utype = result.get("type", "")
-        topic = result.get("topic", "AI")
-        commit_part = result.get("commit_part", "")
+        # Last resort: append today's date to force uniqueness
+        base = candidates[0] if candidates else "Update AI content"
+        stamped = f"{base} [{datetime.date.today().isoformat()}]"
+        return stamped
 
-        if commit_part:
-            return commit_part
+    # ── Internals ──────────────────────────────────────────────────────────────
 
-        templates = _TEMPLATES.get(utype, [])
-        if templates:
-            tmpl = random.choice(templates)
-            return tmpl.format(topic=topic)
+    def _candidates(self, utype: str, topic: str, preferred: str) -> list[str]:
+        """Return an ordered list of candidate messages (most preferred first)."""
+        candidates: list[str] = []
 
-        return result.get("description", "Update AI content")
+        if preferred:
+            candidates.append(preferred)
 
-    def _multi_title(self, results: list[dict]) -> str:
-        types = {r.get("type") for r in results}
-        if "new_article" in types and "update_readme" in types:
-            return "Add new AI article and update README"
-        if "add_interview_questions" in types and "add_python_examples" in types:
-            return "Expand interview prep with Q&A and code examples"
-        if "add_ai_facts" in types and "add_quiz" in types:
-            return "Add AI facts and quiz section"
-        return random.choice(_GENERIC_PREFIXES) + f" ({len(results)} updates)"
+        templates = list(_TEMPLATES.get(utype, []))
+        self._rng.shuffle(templates)
+        for tmpl in templates:
+            candidates.append(tmpl.format(topic=topic))
+
+        # Append generic fallbacks as last resort
+        fallbacks = list(_GENERIC_FALLBACKS)
+        self._rng.shuffle(fallbacks)
+        candidates.extend(fallbacks)
+
+        return candidates

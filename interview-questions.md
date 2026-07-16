@@ -22,3 +22,9 @@ A: AI for Code Generation is a key AI concept. More details coming soon.
 
 A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
+## 2026-07-16 — Interview Questions: Semantic Search
+
+**Q: What is Semantic Search?**
+
+A: Semantic Search is a key AI concept. More details coming soon.
+

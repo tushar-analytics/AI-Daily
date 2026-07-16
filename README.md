@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-0-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-07-16-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-5-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -25,7 +25,11 @@
 
 ## 📰 Recent Articles
 
-_No articles yet — check back tomorrow!_
+- [Ai Agents And Agentic Workflows](articles/ai-agents-and-agentic-workflows.md)
+- [Ai In Healthcare](articles/ai-in-healthcare.md)
+- [Ai Safety And Alignment](articles/ai-safety-and-alignment.md)
+- [Constitutional Ai And Rlhf](articles/constitutional-ai-and-rlhf.md)
+- [Vector Databases And Embeddings](articles/vector-databases-and-embeddings.md)
 
 ---
 
@@ -33,10 +37,13 @@ _No articles yet — check back tomorrow!_
 
 ```mermaid
 flowchart LR
-    A[⏰ GitHub Actions\nDaily Trigger] --> B[🎲 Random 1-6 Updates]
-    B --> C[🤖 Gemini AI\nContent Generation]
+    A[⏰ GitHub Actions
+Daily Trigger] --> B[🎲 Random 1-6 Updates]
+    B --> C[🤖 Gemini AI
+Content Generation]
     C --> D[📝 Write Files]
-    D --> E[✅ Auto Commit\n& Push]
+    D --> E[✅ Auto Commit
+& Push]
 ```
 
 1. **GitHub Actions** triggers the workflow every day at midnight UTC
@@ -55,8 +62,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 0
-- **Last Updated:** 2026-07-01
+- **Total Articles:** 5
+- **Last Updated:** 2026-07-16
 - **Auto-updates:** Daily ♻️
 
 ---

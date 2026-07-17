@@ -24,3 +24,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Agents and Agentic Workflows happen regularly.
 
+## 2026-07-17 — Facts about Tool-using AI (Function Calling)
+
+- **AI is advancing**: New breakthroughs in Tool-using AI (Function Calling) happen regularly.
+

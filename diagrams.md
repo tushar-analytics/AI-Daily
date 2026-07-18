@@ -28,3 +28,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-07-18 — Diagram: Low-Rank Adaptation (LoRA)
+
+```mermaid
+graph TD
+    A[Low-Rank Adaptation (LoRA)] --> B[Core Concept]
+    B --> C[Application]
+```
+

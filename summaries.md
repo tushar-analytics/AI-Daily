@@ -14,3 +14,8 @@ Quick-reference summaries for key AI concepts — automatically updated daily.
 
 **What it is:** A key AI concept.
 
+<!-- 2026-07-19 -->
+## AI Benchmarks and Evaluation
+
+**What it is:** A key AI concept.
+

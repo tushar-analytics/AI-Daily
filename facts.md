@@ -32,3 +32,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Low-Rank Adaptation (LoRA) happen regularly.
 
+## 2026-07-19 — Facts about Fine-tuning vs In-context Learning
+
+- **AI is advancing**: New breakthroughs in Fine-tuning vs In-context Learning happen regularly.
+

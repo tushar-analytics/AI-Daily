@@ -36,3 +36,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Fine-tuning vs In-context Learning happen regularly.
 
+## 2026-07-20 — Facts about Semantic Search
+
+- **AI is advancing**: New breakthroughs in Semantic Search happen regularly.
+

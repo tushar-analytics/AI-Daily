@@ -52,3 +52,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-07-24 — Diagram: Fine-tuning vs In-context Learning
+
+```mermaid
+graph TD
+    A[Fine-tuning vs In-context Learning] --> B[Core Concept]
+    B --> C[Application]
+```
+

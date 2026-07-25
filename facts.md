@@ -40,3 +40,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Semantic Search happen regularly.
 
+## 2026-07-25 — Facts about AI Benchmarks and Evaluation
+
+- **AI is advancing**: New breakthroughs in AI Benchmarks and Evaluation happen regularly.
+

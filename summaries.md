@@ -19,3 +19,8 @@ Quick-reference summaries for key AI concepts — automatically updated daily.
 
 **What it is:** A key AI concept.
 
+<!-- 2026-07-25 -->
+## AI in Healthcare
+
+**What it is:** A key AI concept.
+

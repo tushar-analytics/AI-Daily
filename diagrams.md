@@ -60,3 +60,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-07-25 — Diagram: AI Agents and Agentic Workflows
+
+```mermaid
+graph TD
+    A[AI Agents and Agentic Workflows] --> B[Core Concept]
+    B --> C[Application]
+```
+

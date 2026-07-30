@@ -10,3 +10,9 @@ Test your AI knowledge with daily quizzes — automatically updated.
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-07-30 — Quiz: Retrieval-Augmented Generation (RAG)
+
+**Q1: What is Retrieval-Augmented Generation (RAG)?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

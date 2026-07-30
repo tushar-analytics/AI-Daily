@@ -76,3 +76,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-07-30 — Diagram: Model Context Windows
+
+```mermaid
+graph TD
+    A[Model Context Windows] --> B[Core Concept]
+    B --> C[Application]
+```
+

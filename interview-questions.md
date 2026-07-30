@@ -46,3 +46,9 @@ A: Large Language Models (LLMs) is a key AI concept. More details coming soon.
 
 A: Model Context Windows is a key AI concept. More details coming soon.
 
+## 2026-07-30 — Interview Questions: Federated Learning
+
+**Q: What is Federated Learning?**
+
+A: Federated Learning is a key AI concept. More details coming soon.
+

@@ -48,3 +48,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Low-Rank Adaptation (LoRA) happen regularly.
 
+## 2026-07-31 — Facts about Tool-using AI (Function Calling)
+
+- **AI is advancing**: New breakthroughs in Tool-using AI (Function Calling) happen regularly.
+

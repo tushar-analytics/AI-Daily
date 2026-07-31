@@ -39,3 +39,10 @@ print('Hello, Model Quantization and Pruning!')
 print('Hello, AI for Code Generation!')
 ```
 
+## 2026-07-31 — Python Examples: Prompt Engineering
+
+```python
+# Example for Prompt Engineering
+print('Hello, Prompt Engineering!')
+```
+

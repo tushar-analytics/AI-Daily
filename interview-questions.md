@@ -52,3 +52,9 @@ A: Model Context Windows is a key AI concept. More details coming soon.
 
 A: Federated Learning is a key AI concept. More details coming soon.
 
+## 2026-07-31 — Interview Questions: Chain-of-Thought Reasoning
+
+**Q: What is Chain-of-Thought Reasoning?**
+
+A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
+

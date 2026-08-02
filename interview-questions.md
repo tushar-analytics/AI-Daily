@@ -64,3 +64,9 @@ A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
 A: AI for Code Generation is a key AI concept. More details coming soon.
 
+## 2026-08-02 — Interview Questions: AI Hallucinations and Mitigation
+
+**Q: What is AI Hallucinations and Mitigation?**
+
+A: AI Hallucinations and Mitigation is a key AI concept. More details coming soon.
+

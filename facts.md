@@ -52,3 +52,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Tool-using AI (Function Calling) happen regularly.
 
+## 2026-08-02 — Facts about AI Ethics and Bias
+
+- **AI is advancing**: New breakthroughs in AI Ethics and Bias happen regularly.
+

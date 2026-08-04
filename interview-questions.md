@@ -70,3 +70,9 @@ A: AI for Code Generation is a key AI concept. More details coming soon.
 
 A: AI Hallucinations and Mitigation is a key AI concept. More details coming soon.
 
+## 2026-08-04 — Interview Questions: AI Safety and Alignment
+
+**Q: What is AI Safety and Alignment?**
+
+A: AI Safety and Alignment is a key AI concept. More details coming soon.
+

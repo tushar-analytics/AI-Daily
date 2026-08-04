@@ -56,3 +56,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Ethics and Bias happen regularly.
 
+## 2026-08-04 — Facts about Transformer Architecture
+
+- **AI is advancing**: New breakthroughs in Transformer Architecture happen regularly.
+

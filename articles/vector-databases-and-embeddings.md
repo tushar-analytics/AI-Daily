@@ -18,3 +18,8 @@ More content about Vector Databases And Embeddings coming soon.
 
 More content about Vector Databases And Embeddings coming soon.
 
+
+## Additional Notes
+
+More content about Vector Databases And Embeddings coming soon.
+

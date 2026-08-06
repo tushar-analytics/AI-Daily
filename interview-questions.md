@@ -76,3 +76,9 @@ A: AI Hallucinations and Mitigation is a key AI concept. More details coming soo
 
 A: AI Safety and Alignment is a key AI concept. More details coming soon.
 
+## 2026-08-06 — Interview Questions: Attention Mechanisms
+
+**Q: What is Attention Mechanisms?**
+
+A: Attention Mechanisms is a key AI concept. More details coming soon.
+

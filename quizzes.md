@@ -16,3 +16,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-08-06 — Quiz: Transformer Architecture
+
+**Q1: What is Transformer Architecture?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

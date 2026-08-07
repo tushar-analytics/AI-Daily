@@ -64,3 +64,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Graph Neural Networks happen regularly.
 
+## 2026-08-07 — Facts about AI Hallucinations and Mitigation
+
+- **AI is advancing**: New breakthroughs in AI Hallucinations and Mitigation happen regularly.
+

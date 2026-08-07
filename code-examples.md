@@ -46,3 +46,10 @@ print('Hello, AI for Code Generation!')
 print('Hello, Prompt Engineering!')
 ```
 
+## 2026-08-07 — Python Examples: Low-Rank Adaptation (LoRA)
+
+```python
+# Example for Low-Rank Adaptation (LoRA)
+print('Hello, Low-Rank Adaptation (LoRA)!')
+```
+

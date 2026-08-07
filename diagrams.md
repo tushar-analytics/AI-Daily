@@ -92,3 +92,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-08-07 — Diagram: Model Quantization and Pruning
+
+```mermaid
+graph TD
+    A[Model Quantization and Pruning] --> B[Core Concept]
+    B --> C[Application]
+```
+

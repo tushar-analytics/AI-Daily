@@ -82,3 +82,9 @@ A: AI Safety and Alignment is a key AI concept. More details coming soon.
 
 A: Attention Mechanisms is a key AI concept. More details coming soon.
 
+## 2026-08-07 — Interview Questions: Chain-of-Thought Reasoning
+
+**Q: What is Chain-of-Thought Reasoning?**
+
+A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
+

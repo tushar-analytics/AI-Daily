@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-08-06-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-12-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-08-07-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-13-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -34,6 +34,7 @@
 - [Federated Learning](articles/federated-learning.md)
 - [Fine Tuning Vs In Context Learning](articles/fine-tuning-vs-in-context-learning.md)
 - [Knowledge Graphs For Ai](articles/knowledge-graphs-for-ai.md)
+- [Mixture Of Experts Moe](articles/mixture-of-experts-moe.md)
 - [Reinforcement Learning From Human Feedback Rlhf](articles/reinforcement-learning-from-human-feedback-rlhf.md)
 - [Retrieval Augmented Generation Rag](articles/retrieval-augmented-generation-rag.md)
 - [Vector Databases And Embeddings](articles/vector-databases-and-embeddings.md)
@@ -69,8 +70,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 12
-- **Last Updated:** 2026-08-06
+- **Total Articles:** 13
+- **Last Updated:** 2026-08-07
 - **Auto-updates:** Daily ♻️
 
 ---

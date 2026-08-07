@@ -8,3 +8,8 @@ tags: [ai, learning]
 
 *Article coming soon.*
 
+
+## Additional Notes
+
+More content about Knowledge Graphs For Ai coming soon.
+

@@ -68,3 +68,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Hallucinations and Mitigation happen regularly.
 
+## 2026-08-09 — Facts about Model Context Windows
+
+- **AI is advancing**: New breakthroughs in Model Context Windows happen regularly.
+

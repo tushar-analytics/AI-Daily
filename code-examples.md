@@ -60,3 +60,10 @@ print('Hello, Low-Rank Adaptation (LoRA)!')
 print('Hello, Low-Rank Adaptation (LoRA)!')
 ```
 
+## 2026-08-10 — Python Examples: AI Agents and Agentic Workflows
+
+```python
+# Example for AI Agents and Agentic Workflows
+print('Hello, AI Agents and Agentic Workflows!')
+```
+

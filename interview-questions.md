@@ -88,3 +88,9 @@ A: Attention Mechanisms is a key AI concept. More details coming soon.
 
 A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
+## 2026-08-10 — Interview Questions: Multimodal AI Models
+
+**Q: What is Multimodal AI Models?**
+
+A: Multimodal AI Models is a key AI concept. More details coming soon.
+

@@ -76,3 +76,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Chain-of-Thought Reasoning happen regularly.
 
+## 2026-08-14 — Facts about Constitutional AI and RLHF
+
+- **AI is advancing**: New breakthroughs in Constitutional AI and RLHF happen regularly.
+

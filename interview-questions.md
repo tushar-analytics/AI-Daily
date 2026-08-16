@@ -94,3 +94,9 @@ A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
 A: Multimodal AI Models is a key AI concept. More details coming soon.
 
+## 2026-08-16 — Interview Questions: Vector Databases and Embeddings
+
+**Q: What is Vector Databases and Embeddings?**
+
+A: Vector Databases and Embeddings is a key AI concept. More details coming soon.
+

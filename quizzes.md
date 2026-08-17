@@ -28,3 +28,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-08-17 — Quiz: Prompt Engineering
+
+**Q1: What is Prompt Engineering?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

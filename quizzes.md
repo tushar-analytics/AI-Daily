@@ -34,3 +34,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-08-18 — Quiz: Diffusion Models
+
+**Q1: What is Diffusion Models?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

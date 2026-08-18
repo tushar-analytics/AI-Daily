@@ -80,3 +80,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Constitutional AI and RLHF happen regularly.
 
+## 2026-08-18 — Facts about Attention Mechanisms
+
+- **AI is advancing**: New breakthroughs in Attention Mechanisms happen regularly.
+

@@ -81,3 +81,10 @@ print('Hello, AI Memory Systems!')
 print('Hello, AI Memory Systems!')
 ```
 
+## 2026-08-18 — Python Examples: Attention Mechanisms
+
+```python
+# Example for Attention Mechanisms
+print('Hello, Attention Mechanisms!')
+```
+

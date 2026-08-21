@@ -84,3 +84,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Attention Mechanisms happen regularly.
 
+## 2026-08-21 — Facts about Attention Mechanisms
+
+- **AI is advancing**: New breakthroughs in Attention Mechanisms happen regularly.
+

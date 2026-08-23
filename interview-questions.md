@@ -100,3 +100,9 @@ A: Multimodal AI Models is a key AI concept. More details coming soon.
 
 A: Vector Databases and Embeddings is a key AI concept. More details coming soon.
 
+## 2026-08-23 — Interview Questions: Zero-shot and Few-shot Learning
+
+**Q: What is Zero-shot and Few-shot Learning?**
+
+A: Zero-shot and Few-shot Learning is a key AI concept. More details coming soon.
+

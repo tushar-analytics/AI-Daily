@@ -1,6 +1,6 @@
 ---
 title: "Vector Databases and Embeddings"
-date: 2026-08-22
+date: 2026-08-23
 tags: [ai, learning]
 ---
 

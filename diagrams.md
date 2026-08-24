@@ -132,3 +132,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-08-24 — Diagram: Chain-of-Thought Reasoning
+
+```mermaid
+graph TD
+    A[Chain-of-Thought Reasoning] --> B[Core Concept]
+    B --> C[Application]
+```
+

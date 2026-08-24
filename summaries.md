@@ -34,3 +34,8 @@ Quick-reference summaries for key AI concepts — automatically updated daily.
 
 **What it is:** A key AI concept.
 
+<!-- 2026-08-24 -->
+## Zero-shot and Few-shot Learning
+
+**What it is:** A key AI concept.
+

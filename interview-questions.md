@@ -106,3 +106,9 @@ A: Vector Databases and Embeddings is a key AI concept. More details coming soon
 
 A: Zero-shot and Few-shot Learning is a key AI concept. More details coming soon.
 
+## 2026-08-24 — Interview Questions: Reinforcement Learning from Human Feedback (RLHF)
+
+**Q: What is Reinforcement Learning from Human Feedback (RLHF)?**
+
+A: Reinforcement Learning from Human Feedback (RLHF) is a key AI concept. More details coming soon.
+

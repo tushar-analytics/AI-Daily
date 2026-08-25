@@ -112,3 +112,9 @@ A: Zero-shot and Few-shot Learning is a key AI concept. More details coming soon
 
 A: Reinforcement Learning from Human Feedback (RLHF) is a key AI concept. More details coming soon.
 
+## 2026-08-25 — Interview Questions: AI Safety and Alignment
+
+**Q: What is AI Safety and Alignment?**
+
+A: AI Safety and Alignment is a key AI concept. More details coming soon.
+

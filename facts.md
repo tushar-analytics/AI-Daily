@@ -96,3 +96,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Multimodal AI Models happen regularly.
 
+## 2026-08-29 — Facts about AI Agents and Agentic Workflows
+
+- **AI is advancing**: New breakthroughs in AI Agents and Agentic Workflows happen regularly.
+

@@ -88,3 +88,10 @@ print('Hello, AI Memory Systems!')
 print('Hello, Attention Mechanisms!')
 ```
 
+## 2026-08-29 — Python Examples: Chain-of-Thought Reasoning
+
+```python
+# Example for Chain-of-Thought Reasoning
+print('Hello, Chain-of-Thought Reasoning!')
+```
+

@@ -118,3 +118,9 @@ A: Reinforcement Learning from Human Feedback (RLHF) is a key AI concept. More d
 
 A: AI Safety and Alignment is a key AI concept. More details coming soon.
 
+## 2026-08-29 — Interview Questions: Constitutional AI and RLHF
+
+**Q: What is Constitutional AI and RLHF?**
+
+A: Constitutional AI and RLHF is a key AI concept. More details coming soon.
+

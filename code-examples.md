@@ -95,3 +95,10 @@ print('Hello, Attention Mechanisms!')
 print('Hello, Chain-of-Thought Reasoning!')
 ```
 
+## 2026-08-31 — Python Examples: Constitutional AI and RLHF
+
+```python
+# Example for Constitutional AI and RLHF
+print('Hello, Constitutional AI and RLHF!')
+```
+

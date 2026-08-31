@@ -100,3 +100,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Agents and Agentic Workflows happen regularly.
 
+## 2026-08-31 — Facts about Diffusion Models
+
+- **AI is advancing**: New breakthroughs in Diffusion Models happen regularly.
+

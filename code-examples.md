@@ -102,3 +102,10 @@ print('Hello, Chain-of-Thought Reasoning!')
 print('Hello, Constitutional AI and RLHF!')
 ```
 
+## 2026-09-01 — Python Examples: Large Language Models (LLMs)
+
+```python
+# Example for Large Language Models (LLMs)
+print('Hello, Large Language Models (LLMs)!')
+```
+

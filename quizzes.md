@@ -46,3 +46,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-09-02 — Quiz: Vector Databases and Embeddings
+
+**Q1: What is Vector Databases and Embeddings?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

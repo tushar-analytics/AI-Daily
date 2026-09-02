@@ -1,15 +1,10 @@
 ---
 title: "Retrieval-Augmented Generation (RAG)"
-date: 2026-08-04
+date: 2026-09-02
 tags: [ai, learning]
 ---
 
 # Retrieval-Augmented Generation (RAG)
 
 *Article coming soon.*
-
-
-## Additional Notes
-
-More content about Retrieval Augmented Generation Rag coming soon.
 

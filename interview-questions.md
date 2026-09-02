@@ -124,3 +124,9 @@ A: AI Safety and Alignment is a key AI concept. More details coming soon.
 
 A: Constitutional AI and RLHF is a key AI concept. More details coming soon.
 
+## 2026-09-02 — Interview Questions: AI Safety and Alignment
+
+**Q: What is AI Safety and Alignment?**
+
+A: AI Safety and Alignment is a key AI concept. More details coming soon.
+

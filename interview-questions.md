@@ -130,3 +130,9 @@ A: Constitutional AI and RLHF is a key AI concept. More details coming soon.
 
 A: AI Safety and Alignment is a key AI concept. More details coming soon.
 
+## 2026-09-03 — Interview Questions: Multimodal AI Models
+
+**Q: What is Multimodal AI Models?**
+
+A: Multimodal AI Models is a key AI concept. More details coming soon.
+

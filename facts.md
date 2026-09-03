@@ -104,3 +104,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Diffusion Models happen regularly.
 
+## 2026-09-03 — Facts about Chain-of-Thought Reasoning
+
+- **AI is advancing**: New breakthroughs in Chain-of-Thought Reasoning happen regularly.
+

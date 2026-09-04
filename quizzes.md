@@ -52,3 +52,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-09-04 — Quiz: Reinforcement Learning from Human Feedback (RLHF)
+
+**Q1: What is Reinforcement Learning from Human Feedback (RLHF)?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

@@ -123,3 +123,10 @@ print('Hello, Large Language Models (LLMs)!')
 print('Hello, Multimodal AI Models!')
 ```
 
+## 2026-09-04 — Python Examples: AI Agents and Agentic Workflows
+
+```python
+# Example for AI Agents and Agentic Workflows
+print('Hello, AI Agents and Agentic Workflows!')
+```
+

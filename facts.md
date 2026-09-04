@@ -108,3 +108,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Chain-of-Thought Reasoning happen regularly.
 
+## 2026-09-04 — Facts about Large Language Models (LLMs)
+
+- **AI is advancing**: New breakthroughs in Large Language Models (LLMs) happen regularly.
+

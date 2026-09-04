@@ -136,3 +136,9 @@ A: AI Safety and Alignment is a key AI concept. More details coming soon.
 
 A: Multimodal AI Models is a key AI concept. More details coming soon.
 
+## 2026-09-04 — Interview Questions: Chain-of-Thought Reasoning
+
+**Q: What is Chain-of-Thought Reasoning?**
+
+A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
+

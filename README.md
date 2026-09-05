@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-08-29-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-15-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-05-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-17-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -26,6 +26,7 @@
 ## 📰 Recent Articles
 
 - [Ai Agents And Agentic Workflows](articles/ai-agents-and-agentic-workflows.md)
+- [Ai Ethics And Bias](articles/ai-ethics-and-bias.md)
 - [Ai In Healthcare](articles/ai-in-healthcare.md)
 - [Ai Memory Systems](articles/ai-memory-systems.md)
 - [Ai Safety And Alignment](articles/ai-safety-and-alignment.md)
@@ -36,6 +37,7 @@
 - [Fine Tuning Vs In Context Learning](articles/fine-tuning-vs-in-context-learning.md)
 - [Knowledge Graphs For Ai](articles/knowledge-graphs-for-ai.md)
 - [Mixture Of Experts Moe](articles/mixture-of-experts-moe.md)
+- [Model Quantization And Pruning](articles/model-quantization-and-pruning.md)
 - [Reinforcement Learning From Human Feedback Rlhf](articles/reinforcement-learning-from-human-feedback-rlhf.md)
 - [Retrieval Augmented Generation Rag](articles/retrieval-augmented-generation-rag.md)
 - [Semantic Search](articles/semantic-search.md)
@@ -72,8 +74,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 15
-- **Last Updated:** 2026-08-29
+- **Total Articles:** 17
+- **Last Updated:** 2026-09-05
 - **Auto-updates:** Daily ♻️
 
 ---

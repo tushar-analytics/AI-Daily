@@ -142,3 +142,9 @@ A: Multimodal AI Models is a key AI concept. More details coming soon.
 
 A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
+## 2026-09-05 — Interview Questions: AI for Code Generation
+
+**Q: What is AI for Code Generation?**
+
+A: AI for Code Generation is a key AI concept. More details coming soon.
+

@@ -116,3 +116,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI in Healthcare happen regularly.
 
+## 2026-09-06 — Facts about AI Agents and Agentic Workflows
+
+- **AI is advancing**: New breakthroughs in AI Agents and Agentic Workflows happen regularly.
+

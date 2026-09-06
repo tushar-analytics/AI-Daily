@@ -148,3 +148,9 @@ A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
 A: AI for Code Generation is a key AI concept. More details coming soon.
 
+## 2026-09-06 — Interview Questions: Tool-using AI (Function Calling)
+
+**Q: What is Tool-using AI (Function Calling)?**
+
+A: Tool-using AI (Function Calling) is a key AI concept. More details coming soon.
+

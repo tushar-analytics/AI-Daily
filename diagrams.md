@@ -140,3 +140,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-09-08 — Diagram: Federated Learning
+
+```mermaid
+graph TD
+    A[Federated Learning] --> B[Core Concept]
+    B --> C[Application]
+```
+

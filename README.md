@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-05-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-17-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-08-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-19-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -38,10 +38,12 @@
 - [Knowledge Graphs For Ai](articles/knowledge-graphs-for-ai.md)
 - [Mixture Of Experts Moe](articles/mixture-of-experts-moe.md)
 - [Model Quantization And Pruning](articles/model-quantization-and-pruning.md)
+- [Multimodal Ai Models](articles/multimodal-ai-models.md)
 - [Reinforcement Learning From Human Feedback Rlhf](articles/reinforcement-learning-from-human-feedback-rlhf.md)
 - [Retrieval Augmented Generation Rag](articles/retrieval-augmented-generation-rag.md)
 - [Semantic Search](articles/semantic-search.md)
 - [Vector Databases And Embeddings](articles/vector-databases-and-embeddings.md)
+- [Zero Shot And Few Shot Learning](articles/zero-shot-and-few-shot-learning.md)
 
 ---
 
@@ -74,8 +76,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 17
-- **Last Updated:** 2026-09-05
+- **Total Articles:** 19
+- **Last Updated:** 2026-09-08
 - **Auto-updates:** Daily ♻️
 
 ---

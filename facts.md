@@ -120,3 +120,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Agents and Agentic Workflows happen regularly.
 
+## 2026-09-08 — Facts about Low-Rank Adaptation (LoRA)
+
+- **AI is advancing**: New breakthroughs in Low-Rank Adaptation (LoRA) happen regularly.
+

@@ -49,3 +49,8 @@ Quick-reference summaries for key AI concepts — automatically updated daily.
 
 **What it is:** A key AI concept.
 
+<!-- 2026-09-08 -->
+## Low-Rank Adaptation (LoRA)
+
+**What it is:** A key AI concept.
+

@@ -54,3 +54,8 @@ Quick-reference summaries for key AI concepts — automatically updated daily.
 
 **What it is:** A key AI concept.
 
+<!-- 2026-09-09 -->
+## AI Safety and Alignment
+
+**What it is:** A key AI concept.
+

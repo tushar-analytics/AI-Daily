@@ -148,3 +148,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-09-10 — Diagram: Attention Mechanisms
+
+```mermaid
+graph TD
+    A[Attention Mechanisms] --> B[Core Concept]
+    B --> C[Application]
+```
+

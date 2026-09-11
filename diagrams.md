@@ -156,3 +156,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-09-11 — Diagram: AI Ethics and Bias
+
+```mermaid
+graph TD
+    A[AI Ethics and Bias] --> B[Core Concept]
+    B --> C[Application]
+```
+

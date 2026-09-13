@@ -132,3 +132,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Safety and Alignment happen regularly.
 
+## 2026-09-13 — Facts about Model Context Windows
+
+- **AI is advancing**: New breakthroughs in Model Context Windows happen regularly.
+

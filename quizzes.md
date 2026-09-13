@@ -64,3 +64,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-09-13 — Quiz: Knowledge Graphs for AI
+
+**Q1: What is Knowledge Graphs for AI?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

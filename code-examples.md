@@ -151,3 +151,10 @@ print('Hello, AI Agents and Agentic Workflows!')
 print('Hello, AI Benchmarks and Evaluation!')
 ```
 
+## 2026-09-15 — Python Examples: Reinforcement Learning from Human Feedback (RLHF)
+
+```python
+# Example for Reinforcement Learning from Human Feedback (RLHF)
+print('Hello, Reinforcement Learning from Human Feedback (RLHF)!')
+```
+

@@ -160,3 +160,9 @@ A: Tool-using AI (Function Calling) is a key AI concept. More details coming soo
 
 A: AI Memory Systems is a key AI concept. More details coming soon.
 
+## 2026-09-15 — Interview Questions: AI Benchmarks and Evaluation
+
+**Q: What is AI Benchmarks and Evaluation?**
+
+A: AI Benchmarks and Evaluation is a key AI concept. More details coming soon.
+

@@ -166,3 +166,9 @@ A: AI Memory Systems is a key AI concept. More details coming soon.
 
 A: AI Benchmarks and Evaluation is a key AI concept. More details coming soon.
 
+## 2026-09-16 — Interview Questions: AI Hallucinations and Mitigation
+
+**Q: What is AI Hallucinations and Mitigation?**
+
+A: AI Hallucinations and Mitigation is a key AI concept. More details coming soon.
+

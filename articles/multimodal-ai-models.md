@@ -1,15 +1,10 @@
 ---
 title: "Multimodal AI Models"
-date: 2026-09-05
+date: 2026-09-17
 tags: [ai, learning]
 ---
 
 # Multimodal AI Models
 
 *Article coming soon.*
-
-
-## Additional Notes
-
-More content about Multimodal Ai Models coming soon.
 

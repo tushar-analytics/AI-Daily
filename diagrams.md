@@ -180,3 +180,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-09-19 — Diagram: Constitutional AI and RLHF
+
+```mermaid
+graph TD
+    A[Constitutional AI and RLHF] --> B[Core Concept]
+    B --> C[Application]
+```
+

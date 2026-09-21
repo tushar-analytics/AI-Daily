@@ -184,3 +184,9 @@ A: AI Benchmarks and Evaluation is a key AI concept. More details coming soon.
 
 A: Tool-using AI (Function Calling) is a key AI concept. More details coming soon.
 
+## 2026-09-21 — Interview Questions: AI Hallucinations and Mitigation
+
+**Q: What is AI Hallucinations and Mitigation?**
+
+A: AI Hallucinations and Mitigation is a key AI concept. More details coming soon.
+

@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-12-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-20-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-21-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-23-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -26,7 +26,9 @@
 ## 📰 Recent Articles
 
 - [Ai Agents And Agentic Workflows](articles/ai-agents-and-agentic-workflows.md)
+- [Ai Benchmarks And Evaluation](articles/ai-benchmarks-and-evaluation.md)
 - [Ai Ethics And Bias](articles/ai-ethics-and-bias.md)
+- [Ai For Code Generation](articles/ai-for-code-generation.md)
 - [Ai In Healthcare](articles/ai-in-healthcare.md)
 - [Ai Memory Systems](articles/ai-memory-systems.md)
 - [Ai Safety And Alignment](articles/ai-safety-and-alignment.md)
@@ -35,6 +37,7 @@
 - [Diffusion Models](articles/diffusion-models.md)
 - [Federated Learning](articles/federated-learning.md)
 - [Fine Tuning Vs In Context Learning](articles/fine-tuning-vs-in-context-learning.md)
+- [Graph Neural Networks](articles/graph-neural-networks.md)
 - [Knowledge Graphs For Ai](articles/knowledge-graphs-for-ai.md)
 - [Mixture Of Experts Moe](articles/mixture-of-experts-moe.md)
 - [Model Quantization And Pruning](articles/model-quantization-and-pruning.md)
@@ -42,9 +45,6 @@
 - [Reinforcement Learning From Human Feedback Rlhf](articles/reinforcement-learning-from-human-feedback-rlhf.md)
 - [Retrieval Augmented Generation Rag](articles/retrieval-augmented-generation-rag.md)
 - [Semantic Search](articles/semantic-search.md)
-- [Transformer Architecture](articles/transformer-architecture.md)
-- [Vector Databases And Embeddings](articles/vector-databases-and-embeddings.md)
-- [Zero Shot And Few Shot Learning](articles/zero-shot-and-few-shot-learning.md)
 
 ---
 
@@ -77,8 +77,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 20
-- **Last Updated:** 2026-09-12
+- **Total Articles:** 23
+- **Last Updated:** 2026-09-21
 - **Auto-updates:** Daily ♻️
 
 ---

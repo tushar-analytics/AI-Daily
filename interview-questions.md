@@ -190,3 +190,9 @@ A: Tool-using AI (Function Calling) is a key AI concept. More details coming soo
 
 A: AI Hallucinations and Mitigation is a key AI concept. More details coming soon.
 
+## 2026-09-23 — Interview Questions: Zero-shot and Few-shot Learning
+
+**Q: What is Zero-shot and Few-shot Learning?**
+
+A: Zero-shot and Few-shot Learning is a key AI concept. More details coming soon.
+

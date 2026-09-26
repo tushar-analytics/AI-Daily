@@ -196,3 +196,9 @@ A: AI Hallucinations and Mitigation is a key AI concept. More details coming soo
 
 A: Zero-shot and Few-shot Learning is a key AI concept. More details coming soon.
 
+## 2026-09-26 — Interview Questions: Chain-of-Thought Reasoning
+
+**Q: What is Chain-of-Thought Reasoning?**
+
+A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
+

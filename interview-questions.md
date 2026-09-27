@@ -202,3 +202,9 @@ A: Zero-shot and Few-shot Learning is a key AI concept. More details coming soon
 
 A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
+## 2026-09-27 — Interview Questions: AI Ethics and Bias
+
+**Q: What is AI Ethics and Bias?**
+
+A: AI Ethics and Bias is a key AI concept. More details coming soon.
+

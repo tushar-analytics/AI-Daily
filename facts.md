@@ -144,3 +144,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI in Healthcare happen regularly.
 
+## 2026-09-29 — Facts about AI Safety and Alignment
+
+- **AI is advancing**: New breakthroughs in AI Safety and Alignment happen regularly.
+

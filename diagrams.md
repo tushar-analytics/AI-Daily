@@ -196,3 +196,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-09-29 — Diagram: AI Safety and Alignment
+
+```mermaid
+graph TD
+    A[AI Safety and Alignment] --> B[Core Concept]
+    B --> C[Application]
+```
+

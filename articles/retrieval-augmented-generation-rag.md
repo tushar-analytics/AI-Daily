@@ -1,6 +1,6 @@
 ---
 title: "Retrieval-Augmented Generation (RAG)"
-date: 2026-09-02
+date: 2026-10-02
 tags: [ai, learning]
 ---
 

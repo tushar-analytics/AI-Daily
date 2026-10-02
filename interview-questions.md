@@ -208,3 +208,9 @@ A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
 A: AI Ethics and Bias is a key AI concept. More details coming soon.
 
+## 2026-10-02 — Interview Questions: Model Quantization and Pruning
+
+**Q: What is Model Quantization and Pruning?**
+
+A: Model Quantization and Pruning is a key AI concept. More details coming soon.
+

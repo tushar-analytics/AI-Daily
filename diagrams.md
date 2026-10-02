@@ -204,3 +204,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-10-02 — Diagram: Retrieval-Augmented Generation (RAG)
+
+```mermaid
+graph TD
+    A[Retrieval-Augmented Generation (RAG)] --> B[Core Concept]
+    B --> C[Application]
+```
+

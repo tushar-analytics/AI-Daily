@@ -148,3 +148,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Safety and Alignment happen regularly.
 
+## 2026-10-02 — Facts about Attention Mechanisms
+
+- **AI is advancing**: New breakthroughs in Attention Mechanisms happen regularly.
+

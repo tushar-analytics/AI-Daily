@@ -1,6 +1,6 @@
 ---
 title: "Chain-of-Thought Reasoning"
-date: 2026-08-18
+date: 2026-10-03
 tags: [ai, learning]
 ---
 

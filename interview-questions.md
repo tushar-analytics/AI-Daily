@@ -214,3 +214,9 @@ A: AI Ethics and Bias is a key AI concept. More details coming soon.
 
 A: Model Quantization and Pruning is a key AI concept. More details coming soon.
 
+## 2026-10-05 — Interview Questions: Large Language Models (LLMs)
+
+**Q: What is Large Language Models (LLMs)?**
+
+A: Large Language Models (LLMs) is a key AI concept. More details coming soon.
+

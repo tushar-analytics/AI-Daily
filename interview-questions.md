@@ -220,3 +220,9 @@ A: Model Quantization and Pruning is a key AI concept. More details coming soon.
 
 A: Large Language Models (LLMs) is a key AI concept. More details coming soon.
 
+## 2026-10-07 — Interview Questions: Model Quantization and Pruning
+
+**Q: What is Model Quantization and Pruning?**
+
+A: Model Quantization and Pruning is a key AI concept. More details coming soon.
+

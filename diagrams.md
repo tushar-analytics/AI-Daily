@@ -236,3 +236,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-10-14 — Diagram: AI in Healthcare
+
+```mermaid
+graph TD
+    A[AI in Healthcare] --> B[Core Concept]
+    B --> C[Application]
+```
+

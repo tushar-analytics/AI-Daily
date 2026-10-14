@@ -164,3 +164,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Agents and Agentic Workflows happen regularly.
 
+## 2026-10-14 — Facts about Semantic Search
+
+- **AI is advancing**: New breakthroughs in Semantic Search happen regularly.
+

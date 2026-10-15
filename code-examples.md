@@ -186,3 +186,10 @@ print('Hello, AI Hallucinations and Mitigation!')
 print('Hello, AI for Code Generation!')
 ```
 
+## 2026-10-15 — Python Examples: Tool-using AI (Function Calling)
+
+```python
+# Example for Tool-using AI (Function Calling)
+print('Hello, Tool-using AI (Function Calling)!')
+```
+

@@ -74,3 +74,8 @@ Quick-reference summaries for key AI concepts — automatically updated daily.
 
 **What it is:** A key AI concept.
 
+<!-- 2026-10-16 -->
+## Graph Neural Networks
+
+**What it is:** A key AI concept.
+

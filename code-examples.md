@@ -193,3 +193,10 @@ print('Hello, AI for Code Generation!')
 print('Hello, Tool-using AI (Function Calling)!')
 ```
 
+## 2026-10-16 — Python Examples: Diffusion Models
+
+```python
+# Example for Diffusion Models
+print('Hello, Diffusion Models!')
+```
+

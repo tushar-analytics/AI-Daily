@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-27-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-24-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-16-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-25-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -32,6 +32,7 @@
 - [Ai In Healthcare](articles/ai-in-healthcare.md)
 - [Ai Memory Systems](articles/ai-memory-systems.md)
 - [Ai Safety And Alignment](articles/ai-safety-and-alignment.md)
+- [Attention Mechanisms](articles/attention-mechanisms.md)
 - [Chain Of Thought Reasoning](articles/chain-of-thought-reasoning.md)
 - [Constitutional Ai And Rlhf](articles/constitutional-ai-and-rlhf.md)
 - [Diffusion Models](articles/diffusion-models.md)
@@ -44,7 +45,6 @@
 - [Model Quantization And Pruning](articles/model-quantization-and-pruning.md)
 - [Multimodal Ai Models](articles/multimodal-ai-models.md)
 - [Reinforcement Learning From Human Feedback Rlhf](articles/reinforcement-learning-from-human-feedback-rlhf.md)
-- [Retrieval Augmented Generation Rag](articles/retrieval-augmented-generation-rag.md)
 
 ---
 
@@ -77,8 +77,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 24
-- **Last Updated:** 2026-09-27
+- **Total Articles:** 25
+- **Last Updated:** 2026-10-16
 - **Auto-updates:** Daily ♻️
 
 ---

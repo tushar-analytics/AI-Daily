@@ -1,6 +1,6 @@
 ---
 title: "Constitutional AI and RLHF"
-date: 2026-10-15
+date: 2026-10-16
 tags: [ai, learning]
 ---
 

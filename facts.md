@@ -168,3 +168,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Semantic Search happen regularly.
 
+## 2026-10-16 — Facts about Knowledge Graphs for AI
+
+- **AI is advancing**: New breakthroughs in Knowledge Graphs for AI happen regularly.
+

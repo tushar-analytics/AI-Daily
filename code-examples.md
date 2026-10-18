@@ -200,3 +200,10 @@ print('Hello, Tool-using AI (Function Calling)!')
 print('Hello, Diffusion Models!')
 ```
 
+## 2026-10-18 — Python Examples: Model Quantization and Pruning
+
+```python
+# Example for Model Quantization and Pruning
+print('Hello, Model Quantization and Pruning!')
+```
+

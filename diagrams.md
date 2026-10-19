@@ -244,3 +244,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-10-19 — Diagram: Reinforcement Learning from Human Feedback (RLHF)
+
+```mermaid
+graph TD
+    A[Reinforcement Learning from Human Feedback (RLHF)] --> B[Core Concept]
+    B --> C[Application]
+```
+

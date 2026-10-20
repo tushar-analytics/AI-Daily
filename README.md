@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-17-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-25-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-20-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-26-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -44,7 +44,7 @@
 - [Model Context Windows](articles/model-context-windows.md)
 - [Model Quantization And Pruning](articles/model-quantization-and-pruning.md)
 - [Multimodal Ai Models](articles/multimodal-ai-models.md)
-- [Reinforcement Learning From Human Feedback Rlhf](articles/reinforcement-learning-from-human-feedback-rlhf.md)
+- [Prompt Engineering](articles/prompt-engineering.md)
 
 ---
 
@@ -77,8 +77,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 25
-- **Last Updated:** 2026-10-17
+- **Total Articles:** 26
+- **Last Updated:** 2026-10-20
 - **Auto-updates:** Daily ♻️
 
 ---

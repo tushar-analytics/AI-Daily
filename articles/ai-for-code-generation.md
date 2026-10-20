@@ -1,6 +1,6 @@
 ---
 title: "AI for Code Generation"
-date: 2026-09-27
+date: 2026-10-20
 tags: [ai, learning]
 ---
 

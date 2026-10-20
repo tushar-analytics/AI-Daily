@@ -79,3 +79,8 @@ Quick-reference summaries for key AI concepts — automatically updated daily.
 
 **What it is:** A key AI concept.
 
+<!-- 2026-10-20 -->
+## Tool-using AI (Function Calling)
+
+**What it is:** A key AI concept.
+

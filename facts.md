@@ -180,3 +180,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in AI Hallucinations and Mitigation happen regularly.
 
+## 2026-10-21 — Facts about Prompt Engineering
+
+- **AI is advancing**: New breakthroughs in Prompt Engineering happen regularly.
+

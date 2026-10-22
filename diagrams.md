@@ -252,3 +252,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-10-22 — Diagram: Vector Databases and Embeddings
+
+```mermaid
+graph TD
+    A[Vector Databases and Embeddings] --> B[Core Concept]
+    B --> C[Application]
+```
+

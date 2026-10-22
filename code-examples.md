@@ -228,3 +228,10 @@ print('Hello, Model Quantization and Pruning!')
 print('Hello, Federated Learning!')
 ```
 
+## 2026-10-22 — Python Examples: Transformer Architecture
+
+```python
+# Example for Transformer Architecture
+print('Hello, Transformer Architecture!')
+```
+

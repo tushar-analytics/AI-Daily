@@ -70,3 +70,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-10-22 — Quiz: AI Benchmarks and Evaluation
+
+**Q1: What is AI Benchmarks and Evaluation?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

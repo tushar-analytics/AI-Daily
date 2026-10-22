@@ -232,3 +232,9 @@ A: Model Quantization and Pruning is a key AI concept. More details coming soon.
 
 A: Large Language Models (LLMs) is a key AI concept. More details coming soon.
 
+## 2026-10-22 — Interview Questions: Constitutional AI and RLHF
+
+**Q: What is Constitutional AI and RLHF?**
+
+A: Constitutional AI and RLHF is a key AI concept. More details coming soon.
+

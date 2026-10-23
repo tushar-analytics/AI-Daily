@@ -235,3 +235,10 @@ print('Hello, Federated Learning!')
 print('Hello, Transformer Architecture!')
 ```
 
+## 2026-10-23 — Python Examples: Diffusion Models
+
+```python
+# Example for Diffusion Models
+print('Hello, Diffusion Models!')
+```
+

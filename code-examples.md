@@ -242,3 +242,10 @@ print('Hello, Transformer Architecture!')
 print('Hello, Diffusion Models!')
 ```
 
+## 2026-10-24 — Python Examples: Diffusion Models
+
+```python
+# Example for Diffusion Models
+print('Hello, Diffusion Models!')
+```
+

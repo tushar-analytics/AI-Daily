@@ -184,3 +184,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Prompt Engineering happen regularly.
 
+## 2026-10-24 — Facts about Zero-shot and Few-shot Learning
+
+- **AI is advancing**: New breakthroughs in Zero-shot and Few-shot Learning happen regularly.
+

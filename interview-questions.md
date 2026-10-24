@@ -238,3 +238,9 @@ A: Large Language Models (LLMs) is a key AI concept. More details coming soon.
 
 A: Constitutional AI and RLHF is a key AI concept. More details coming soon.
 
+## 2026-10-24 — Interview Questions: Diffusion Models
+
+**Q: What is Diffusion Models?**
+
+A: Diffusion Models is a key AI concept. More details coming soon.
+

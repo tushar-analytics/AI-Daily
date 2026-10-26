@@ -249,3 +249,10 @@ print('Hello, Diffusion Models!')
 print('Hello, Diffusion Models!')
 ```
 
+## 2026-10-26 — Python Examples: AI Agents and Agentic Workflows
+
+```python
+# Example for AI Agents and Agentic Workflows
+print('Hello, AI Agents and Agentic Workflows!')
+```
+

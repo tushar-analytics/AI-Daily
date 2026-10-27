@@ -268,3 +268,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-10-27 — Diagram: Tool-using AI (Function Calling)
+
+```mermaid
+graph TD
+    A[Tool-using AI (Function Calling)] --> B[Core Concept]
+    B --> C[Application]
+```
+

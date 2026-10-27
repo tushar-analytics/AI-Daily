@@ -244,3 +244,9 @@ A: Constitutional AI and RLHF is a key AI concept. More details coming soon.
 
 A: Diffusion Models is a key AI concept. More details coming soon.
 
+## 2026-10-27 — Interview Questions: Chain-of-Thought Reasoning
+
+**Q: What is Chain-of-Thought Reasoning?**
+
+A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
+

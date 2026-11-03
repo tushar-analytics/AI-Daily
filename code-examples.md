@@ -263,3 +263,10 @@ print('Hello, AI Agents and Agentic Workflows!')
 print('Hello, AI Ethics and Bias!')
 ```
 
+## 2026-11-03 — Python Examples: Prompt Engineering
+
+```python
+# Example for Prompt Engineering
+print('Hello, Prompt Engineering!')
+```
+

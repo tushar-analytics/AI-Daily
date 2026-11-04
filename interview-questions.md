@@ -256,3 +256,9 @@ A: Chain-of-Thought Reasoning is a key AI concept. More details coming soon.
 
 A: AI for Code Generation is a key AI concept. More details coming soon.
 
+## 2026-11-04 — Interview Questions: Model Context Windows
+
+**Q: What is Model Context Windows?**
+
+A: Model Context Windows is a key AI concept. More details coming soon.
+

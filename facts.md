@@ -192,3 +192,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Federated Learning happen regularly.
 
+## 2026-11-05 — Facts about Diffusion Models
+
+- **AI is advancing**: New breakthroughs in Diffusion Models happen regularly.
+

@@ -284,3 +284,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-11-05 — Diagram: Graph Neural Networks
+
+```mermaid
+graph TD
+    A[Graph Neural Networks] --> B[Core Concept]
+    B --> C[Application]
+```
+

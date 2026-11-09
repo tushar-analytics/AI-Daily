@@ -200,3 +200,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Multimodal AI Models happen regularly.
 
+## 2026-11-09 — Facts about Fine-tuning vs In-context Learning
+
+- **AI is advancing**: New breakthroughs in Fine-tuning vs In-context Learning happen regularly.
+

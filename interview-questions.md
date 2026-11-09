@@ -268,3 +268,9 @@ A: Model Context Windows is a key AI concept. More details coming soon.
 
 A: AI Memory Systems is a key AI concept. More details coming soon.
 
+## 2026-11-09 — Interview Questions: AI Benchmarks and Evaluation
+
+**Q: What is AI Benchmarks and Evaluation?**
+
+A: AI Benchmarks and Evaluation is a key AI concept. More details coming soon.
+

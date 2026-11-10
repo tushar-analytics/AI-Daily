@@ -76,3 +76,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-11-10 — Quiz: AI Ethics and Bias
+
+**Q1: What is AI Ethics and Bias?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

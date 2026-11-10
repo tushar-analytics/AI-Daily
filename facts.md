@@ -204,3 +204,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Fine-tuning vs In-context Learning happen regularly.
 
+## 2026-11-10 — Facts about Reinforcement Learning from Human Feedback (RLHF)
+
+- **AI is advancing**: New breakthroughs in Reinforcement Learning from Human Feedback (RLHF) happen regularly.
+

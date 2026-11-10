@@ -3,8 +3,8 @@
 > **Automatically updated every day** with AI articles, facts, interview questions, code examples, and more.
 > Powered by Gemini AI + GitHub Actions.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-21-blue?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-26-green?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-10-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-28-green?style=flat-square)
 ![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Daily-orange?style=flat-square)
 
 ---
@@ -40,11 +40,11 @@
 - [Fine Tuning Vs In Context Learning](articles/fine-tuning-vs-in-context-learning.md)
 - [Graph Neural Networks](articles/graph-neural-networks.md)
 - [Knowledge Graphs For Ai](articles/knowledge-graphs-for-ai.md)
+- [Large Language Models Llms](articles/large-language-models-llms.md)
 - [Mixture Of Experts Moe](articles/mixture-of-experts-moe.md)
 - [Model Context Windows](articles/model-context-windows.md)
 - [Model Quantization And Pruning](articles/model-quantization-and-pruning.md)
 - [Multimodal Ai Models](articles/multimodal-ai-models.md)
-- [Prompt Engineering](articles/prompt-engineering.md)
 
 ---
 
@@ -77,8 +77,8 @@ See [SETUP.md](SETUP.md) for full configuration instructions.
 
 ## 📈 Statistics
 
-- **Total Articles:** 26
-- **Last Updated:** 2026-10-21
+- **Total Articles:** 28
+- **Last Updated:** 2026-11-10
 - **Auto-updates:** Daily ♻️
 
 ---

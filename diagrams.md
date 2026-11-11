@@ -300,3 +300,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-11-11 — Diagram: Diffusion Models
+
+```mermaid
+graph TD
+    A[Diffusion Models] --> B[Core Concept]
+    B --> C[Application]
+```
+

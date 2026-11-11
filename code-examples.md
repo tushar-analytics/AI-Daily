@@ -291,3 +291,10 @@ print('Hello, AI Memory Systems!')
 print('Hello, AI for Code Generation!')
 ```
 
+## 2026-11-11 — Python Examples: Knowledge Graphs for AI
+
+```python
+# Example for Knowledge Graphs for AI
+print('Hello, Knowledge Graphs for AI!')
+```
+

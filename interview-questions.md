@@ -280,3 +280,9 @@ A: AI Benchmarks and Evaluation is a key AI concept. More details coming soon.
 
 A: Large Language Models (LLMs) is a key AI concept. More details coming soon.
 
+## 2026-11-14 — Interview Questions: Multimodal AI Models
+
+**Q: What is Multimodal AI Models?**
+
+A: Multimodal AI Models is a key AI concept. More details coming soon.
+

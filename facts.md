@@ -212,3 +212,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Reinforcement Learning from Human Feedback (RLHF) happen regularly.
 
+## 2026-11-14 — Facts about Zero-shot and Few-shot Learning
+
+- **AI is advancing**: New breakthroughs in Zero-shot and Few-shot Learning happen regularly.
+

@@ -82,3 +82,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-11-14 — Quiz: Model Quantization and Pruning
+
+**Q1: What is Model Quantization and Pruning?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

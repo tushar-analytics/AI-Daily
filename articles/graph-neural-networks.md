@@ -13,3 +13,8 @@ tags: [ai, learning]
 
 More content about Graph Neural Networks coming soon.
 
+
+## Additional Notes
+
+More content about Graph Neural Networks coming soon.
+

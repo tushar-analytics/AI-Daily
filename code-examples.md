@@ -298,3 +298,10 @@ print('Hello, AI for Code Generation!')
 print('Hello, Knowledge Graphs for AI!')
 ```
 
+## 2026-11-14 — Python Examples: Prompt Engineering
+
+```python
+# Example for Prompt Engineering
+print('Hello, Prompt Engineering!')
+```
+

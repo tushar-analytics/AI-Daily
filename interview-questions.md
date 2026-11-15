@@ -286,3 +286,9 @@ A: Large Language Models (LLMs) is a key AI concept. More details coming soon.
 
 A: Multimodal AI Models is a key AI concept. More details coming soon.
 
+## 2026-11-15 — Interview Questions: Low-Rank Adaptation (LoRA)
+
+**Q: What is Low-Rank Adaptation (LoRA)?**
+
+A: Low-Rank Adaptation (LoRA) is a key AI concept. More details coming soon.
+

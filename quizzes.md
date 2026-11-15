@@ -88,3 +88,9 @@ A) Option A  B) Option B  C) Option C  D) Option D
 A) Option A  B) Option B  C) Option C  D) Option D
 **Answer: A**
 
+## 2026-11-15 — Quiz: Fine-tuning vs In-context Learning
+
+**Q1: What is Fine-tuning vs In-context Learning?**
+A) Option A  B) Option B  C) Option C  D) Option D
+**Answer: A**
+

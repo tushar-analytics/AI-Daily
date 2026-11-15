@@ -216,3 +216,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Zero-shot and Few-shot Learning happen regularly.
 
+## 2026-11-15 — Facts about Attention Mechanisms
+
+- **AI is advancing**: New breakthroughs in Attention Mechanisms happen regularly.
+

@@ -308,3 +308,11 @@ graph TD
     B --> C[Application]
 ```
 
+## 2026-11-18 — Diagram: Knowledge Graphs for AI
+
+```mermaid
+graph TD
+    A[Knowledge Graphs for AI] --> B[Core Concept]
+    B --> C[Application]
+```
+

@@ -292,3 +292,9 @@ A: Multimodal AI Models is a key AI concept. More details coming soon.
 
 A: Low-Rank Adaptation (LoRA) is a key AI concept. More details coming soon.
 
+## 2026-11-18 — Interview Questions: Retrieval-Augmented Generation (RAG)
+
+**Q: What is Retrieval-Augmented Generation (RAG)?**
+
+A: Retrieval-Augmented Generation (RAG) is a key AI concept. More details coming soon.
+

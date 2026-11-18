@@ -305,3 +305,10 @@ print('Hello, Knowledge Graphs for AI!')
 print('Hello, Prompt Engineering!')
 ```
 
+## 2026-11-18 — Python Examples: Transformer Architecture
+
+```python
+# Example for Transformer Architecture
+print('Hello, Transformer Architecture!')
+```
+

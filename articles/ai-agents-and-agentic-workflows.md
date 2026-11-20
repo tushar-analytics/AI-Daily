@@ -1,6 +1,6 @@
 ---
 title: "AI Agents and Agentic Workflows"
-date: 2026-11-14
+date: 2026-11-20
 tags: [ai, learning]
 ---
 

@@ -220,3 +220,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Attention Mechanisms happen regularly.
 
+## 2026-11-20 — Facts about Reinforcement Learning from Human Feedback (RLHF)
+
+- **AI is advancing**: New breakthroughs in Reinforcement Learning from Human Feedback (RLHF) happen regularly.
+

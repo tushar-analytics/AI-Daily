@@ -312,3 +312,10 @@ print('Hello, Prompt Engineering!')
 print('Hello, Transformer Architecture!')
 ```
 
+## 2026-11-20 — Python Examples: Chain-of-Thought Reasoning
+
+```python
+# Example for Chain-of-Thought Reasoning
+print('Hello, Chain-of-Thought Reasoning!')
+```
+

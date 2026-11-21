@@ -224,3 +224,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Reinforcement Learning from Human Feedback (RLHF) happen regularly.
 
+## 2026-11-21 — Facts about Constitutional AI and RLHF
+
+- **AI is advancing**: New breakthroughs in Constitutional AI and RLHF happen regularly.
+

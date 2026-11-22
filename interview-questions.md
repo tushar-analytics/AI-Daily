@@ -298,3 +298,9 @@ A: Low-Rank Adaptation (LoRA) is a key AI concept. More details coming soon.
 
 A: Retrieval-Augmented Generation (RAG) is a key AI concept. More details coming soon.
 
+## 2026-11-22 — Interview Questions: Reinforcement Learning from Human Feedback (RLHF)
+
+**Q: What is Reinforcement Learning from Human Feedback (RLHF)?**
+
+A: Reinforcement Learning from Human Feedback (RLHF) is a key AI concept. More details coming soon.
+

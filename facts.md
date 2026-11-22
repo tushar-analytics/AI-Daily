@@ -228,3 +228,7 @@ Daily AI facts and discoveries — automatically updated.
 
 - **AI is advancing**: New breakthroughs in Constitutional AI and RLHF happen regularly.
 
+## 2026-11-22 — Facts about Fine-tuning vs In-context Learning
+
+- **AI is advancing**: New breakthroughs in Fine-tuning vs In-context Learning happen regularly.
+

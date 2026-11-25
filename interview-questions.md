@@ -304,3 +304,9 @@ A: Retrieval-Augmented Generation (RAG) is a key AI concept. More details coming
 
 A: Reinforcement Learning from Human Feedback (RLHF) is a key AI concept. More details coming soon.
 
+## 2026-11-25 — Interview Questions: Diffusion Models
+
+**Q: What is Diffusion Models?**
+
+A: Diffusion Models is a key AI concept. More details coming soon.
+

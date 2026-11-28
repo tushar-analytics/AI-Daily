@@ -319,3 +319,10 @@ print('Hello, Transformer Architecture!')
 print('Hello, Chain-of-Thought Reasoning!')
 ```
 
+## 2026-11-28 — Python Examples: Federated Learning
+
+```python
+# Example for Federated Learning
+print('Hello, Federated Learning!')
+```
+
